@@ -1,3 +1,7 @@
 # College_Management_Sys
-Team Surrender \n
 HackNova
+
+Team Surrender 
+
+
+
